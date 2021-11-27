@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kyratubodashi
+- 👀 I’m interested in why? where? how? to know...
+- 🌱 I’m currently learning to enjoying programming &...
+- 📫 How to reach me ...
+
+<!---
+kyratubodashi/kyratubodashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
